@@ -1,0 +1,18 @@
+from platform import*
+
+print(python_version())
+print()
+print(version())
+print(uname())
+print()
+print(python_build())
+print()
+print(python_branch())
+print()
+print(processor())
+print()
+print(node())
+print()
+print(platform())
+print()
+print(machine())
