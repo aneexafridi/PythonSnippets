@@ -1,8 +1,8 @@
 
 # help(str.removesuffix) # see in python 
 
-Address = 'Dera Adam khel'
+Address = 'Isb punjab'
 
 print(Address)
 
-print(Address.removesuffix('khel'))
+print(Address.removesuffix('punjab'))

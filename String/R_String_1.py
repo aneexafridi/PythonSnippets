@@ -1,6 +1,6 @@
 # r print all the special character
 # mean not work the  \n \t just print it all
 
-print(r'\n\t')
+print(r'y\n\t')
 # print  
-print('\n\t')
+print('4\n\t4')

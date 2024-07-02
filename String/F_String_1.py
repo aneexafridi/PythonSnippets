@@ -11,9 +11,11 @@ print(f"{N}{M}")
 F = 3.14555 
 print(f"{N:10d}")
 print(f"Floating points: {F:.2f}")
-print(f"{N:13.2f}")
+print(f"hello {N:13.2f}")
 print(f"{N:05d}")
 print(f"{N:*<10d}")
 print(f"{N:*>10d}")
 print(f"{N:^10d}") # give centre
 print(f"{N:*^10d}")
+
+print(f"this is >>>>>>{N:%>9d}")

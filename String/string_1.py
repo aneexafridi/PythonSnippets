@@ -6,7 +6,7 @@
 # and also Triple Quotes for multile lines
 # the type represents by str
 # Note---- row string is used to nullify the effect
-# of escape characters like as r'Shahab\nAfridi'=Shahab\nAfridi
+# of escape characters like as r'Anees\nAfridi'=Anees\nAfridi
 
 
 # Mutable objects of String

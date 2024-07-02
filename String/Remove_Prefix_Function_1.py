@@ -1,8 +1,8 @@
 
 # help(str.removeprefix) # see in python 
 
-Address = 'Dera Adam khel'
+Address = 'KADA NEW york'
 
 print(Address)
 
-print(Address.removeprefix('Dera'))
+print(Address.removeprefix('KADA'))
