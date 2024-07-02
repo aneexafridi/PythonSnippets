@@ -5,5 +5,5 @@
 # returned string [x:y] is y-x
 # [:] return full String
 # [start:end:step]!Note end not include
-# name = "Shahab"
-# print("sab" in name)
+# name = "Anees"
+# print("ees" in name)

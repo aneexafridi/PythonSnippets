@@ -2,8 +2,8 @@
 # and ending of the String
 
 
-Name = " Shahab "
+Name = " Anees "
 print(len(Name))
-Name = Name.strip() # this code as Same  Name = " Shahab".strip()
+Name = Name.strip() # this code as Same  Name = " Anees".strip()
 print(Name)
 print(len(Name))
