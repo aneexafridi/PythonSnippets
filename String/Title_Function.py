@@ -2,7 +2,7 @@
 # where each word begins with a capital letter
 
 #  usage for example for Nouns
-Name = "shahab"
+Name = "Anees"
 print(Name)
 Name = Name.title()
 print(Name)
