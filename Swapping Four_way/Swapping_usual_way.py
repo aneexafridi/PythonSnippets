@@ -1,6 +1,6 @@
 # swapping one usual
 
-a  = 10
+a  = 5
 b  = 20
 print(f'a: {a}\nb: {b}')
 
