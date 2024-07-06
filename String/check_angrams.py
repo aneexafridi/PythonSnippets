@@ -19,6 +19,9 @@ def check_angrams(str1,str2):
             freq2[char]+=1
         else:
             freq2[char]=1
+    # print("freq1",freq1)
+    # print("freq2",freq2)
+    
     return freq1 == freq2
 
 str1 = "listen"
