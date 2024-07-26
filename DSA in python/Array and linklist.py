@@ -43,3 +43,12 @@ And what if you don't want to add an item to the end of an array? Use the insert
 The insert() function takes two arguments: the index number of the position the new element will be inserted, and the value of the new element.
 """
 numbers.insert(0,90)
+
+
+numbers.remove(10)
+"""
+With remove(), only the first instance of the value you pass as an argument will be removed.
+"""
+
+#remove the first instance 
+numbers.pop(0)
